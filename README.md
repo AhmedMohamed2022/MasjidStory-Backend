@@ -108,19 +108,28 @@ Members can:
 
 # 📷 Screenshots
 
-*(Add screenshots here)*
-
 Home Page
+<img width="3839" height="1796" alt="Screenshot 2025-06-29 051930" src="https://github.com/user-attachments/assets/9835e282-4686-4264-b4f9-c7c3a775b92d" />
+
 
 Admin Dashboard
+<img width="3837" height="1840" alt="Screenshot 2026-08-02 030301" src="https://github.com/user-attachments/assets/d26c4f6c-7ca8-4f56-add5-1c23794d5473" />
+
 
 Story Management
 
+
 Interactive Maps
+<img width="3839" height="1651" alt="Screenshot 2025-06-30 071330" src="https://github.com/user-attachments/assets/53944ced-f550-4c39-b838-21ae42569803" />
+
 
 Communities
 
+
+
 Authentication
+<img width="3817" height="1835" alt="Screenshot 2026-08-02 030226" src="https://github.com/user-attachments/assets/72d3b3a5-26c6-4048-9737-c5124ceff44d" />
+
 
 ---
 
